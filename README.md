@@ -1,0 +1,1 @@
+# xml_from_1c_to_bitrix
